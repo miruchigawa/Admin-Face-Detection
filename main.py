@@ -35,7 +35,7 @@ def detect_is_admin(file):
     if cv2.imwrite(f'result/{result}', image):
         print(f'Result saved as result/{result}')
     else:
-        print('Image {result} not saved')
+        print(f'Image {result} not saved')
 
 if __name__ == "__main__":
     for file in os.listdir('test'):

@@ -3,7 +3,7 @@
 Opencv project for detect konata izumi a.k.a Admin \(On lowres group\)
 
 ## Setup
-This project uses poetry to manage dependencies so you will need install poetry to run this project. If you don't have poetry installed on your device you can install it [here.](https://python-poetry.org/docs/#installing-with-the-official-installer)
+This project uses poetry for manage dependencies so you will need poetry to run this project, Or if you don't have poetry installed on your device you can install it [here.](https://python-poetry.org/docs/#installing-with-the-official-installer)
 
 First activate poetry shell
 
