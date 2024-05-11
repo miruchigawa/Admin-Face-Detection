@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "anime-face-detection"
+version = "0.1.0"
+description = ""
+authors = ["miruchigawa <miruchigawa@outlook.jp>"]
+license = "MIT"
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pillow = "^10.3.0"
+opencv-python = "^4.9.0.80"
+animeface = "^2.0.2"
+scikit-learn = "^1.4.2"
+keras = "^3.3.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
